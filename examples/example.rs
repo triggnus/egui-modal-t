@@ -1,5 +1,5 @@
 use egui::{self, DragValue};
-use egui_modal::{Icon, Modal, ModalStyle};
+use egui_modal_t::{Icon, Modal, ModalStyle};
 
 struct ExampleApp {
     modal_style: ModalStyle,
